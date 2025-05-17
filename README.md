@@ -17,7 +17,7 @@ The Insight for Good Platform is ultimately designed to offer a comprehensive su
     * The system **to be submitted will establish** the architecture to ingest and analyze datasets related to positive societal trends, environmental conservation efforts, and humanitarian aid outcomes.
     * *Future Development (Beyond Hackathon):* To expand data source compatibility and analytical depth.
 * **Multi-Agent Powered Insights (Planned for Hackathon Submission):**
-    * User queries **are planned to be processed** by a collaborative multi-agent system in the submission version, demonstrating how different agents will handle specific tasks such as data retrieval, initial processing, and insight generation. The collaboration between these agents will be a key aspect showcased in the submission.
+    * User queries **are planned to be processed** by a collaborative multi-agent system in the submission version, demonstrating how different agents will handle specific tasks such as data retrieval, initial processing, and insight generation. The collaboration between these agents will be a key aspect showcased in the submission. For a detailed breakdown of the agent roles, see [agent_roles_benevolent_analysis.md](agent_roles_benevolent_analysis.md).
     * *Future Development (Beyond Hackathon):* To increase the sophistication and number of specialized agents.
 * **Benevolent AI Response Strategy (Core Implementation for Hackathon Submission):**
     * A core implementation of the Benevolent AI Response Strategy **is planned for integration** into the platform for submission. When insights are generated, the response agent **will apply the foundational logic** of this strategy.
