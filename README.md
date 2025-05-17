@@ -40,14 +40,14 @@ A *preliminary* architecture diagram outlining this vision will be developed and
 * **Core Technologies (Initial Development for Hackathon Build):**
     * **Core Framework:** Agent Development Kit (ADK)
     * **Programming Language:** Python
-    * **Data Handling/Analysis (Exploratory):** [User to specify, e.g., Initial exploration with Pandas, NumPy]
-    * **AI/ML Model (Benevolent Response Strategy - Conceptual/Prototyping):** [User to specify, e.g., Developing initial heuristics; exploring Language Model APIs like Google's Gemini]
-    * **UI (Initial Prototyping):** [User to specify, e.g., Basic command-line interface development]
+    * **Data Handling/Analysis (Exploratory):** The initial phase of our technical roadmap includes the evaluation and selection of core libraries for data handling and analysis (e.g., Pandas, NumPy) to be integrated during early development.
+    * **AI/ML Model (Benevolent Response Strategy - Conceptual/Prototyping):** Our technical roadmap prioritizes the development of the Benevolent AI Response Strategy. This involves defining core logic, prototyping with initial heuristics, and evaluating suitable AI/ML model integrations (including options like Google's Gemini) to achieve the desired positively-framed responses.
+    * **UI (Initial Prototyping):** As outlined in our development roadmap, initial UI efforts will concentrate on a foundational interface (e.g., a command-line interface or a simple web prototype using tools like Streamlit/Flask) to demonstrate core functionality. Subsequent phases will address more comprehensive UI/UX enhancements.
 * **Google Cloud Services (Exploration for Hackathon & Future Use):**
-    * We *are exploring the use of* Google Cloud services such as [User to specify, e.g., Cloud Functions for specific agent tasks, Cloud Storage for datasets] for the hackathon build.
-    * *Further integration is planned with services like* [User to specify, e.g., Vertex AI, BigQuery] to enhance capabilities in later versions.
+    * Our roadmap incorporates the strategic integration of Google Cloud services. For the initial build, we are evaluating services such as Cloud Functions for specific agent tasks and Cloud Storage for dataset management, aligning with the project's evolving requirements.
+    * Later phases of our development roadmap identify further integration with services such as Vertex AI for advanced model management and BigQuery for scalable data analytics, ensuring the platform's long-term growth and performance.
 * **Further Development/Planned Integrations (Post-Initial Hackathon Version):**
-    * [User to list other technologies being considered for the full version]
+    The long-term technical roadmap includes the ongoing evaluation and incorporation of additional technologies and frameworks. This will aim to expand the platform's capabilities beyond the initial hackathon version, guided by research, development priorities, and emerging technological opportunities.
 
 ## 5. Core Innovative Concepts
 
@@ -66,7 +66,7 @@ The platform *is being designed with the intention* to eventually analyze data f
 * Environmental protection and climate change mitigation efforts.
 * Humanitarian aid effectiveness and initiatives.
 * Global health and well-being statistics.
-* [User to specify any other types of data sources being considered for initial integration].
+* As part of our data strategy roadmap, we are actively identifying and prioritizing specific datasets for initial integration, focusing on sources that align with the platform's mission of highlighting positive trends and ethical growth.
 
 ## 7. Initial Development Considerations & Learnings
 
@@ -97,4 +97,4 @@ The Insight for Good Platform, *once fully developed*, is envisioned to serve a 
 The source code for the Insight for Good Platform, *as it is developed for the hackathon*, will be made available in a public GitHub repository.
 **Repository Link:** [Link to be provided when repository is set up and populated]
 
-The project *is intended to be licensed* under an open-source license (e.g., MIT License, Apache 2.0 License - to be finalized).
+The selection of a specific open-source license (e.g., MIT, Apache 2.0) is a key consideration in our development roadmap and will be finalized as the codebase matures and is prepared for broader distribution.
