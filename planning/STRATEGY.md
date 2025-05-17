@@ -4,7 +4,7 @@ This directory contains documents outlining the strategic planning and key consi
 
 ## Key Documents
 
-* **Potential Google Cloud Service Integration for Hackathon MVP:** This document explores potential Google Cloud services that could be integrated into the Minimum Viable Product (MVP) for the hackathon, focusing on feasibility and potential benefits. It outlines services like Cloud Storage, Cloud Functions, Vertex AI, BigQuery, and Cloud Run/Agent Engine, and provides a summary of recommended integrations for the MVP.
+* **Potential Google Cloud Service Integration for Hackathon MVP:** This document ([potential_gcp_integration.md](https://github.com/eeshvardasikcm/insight-for-good-platform-adk/blob/planning/planning/potential_gcp_integration.md)) explores potential Google Cloud services that could be integrated into the Minimum Viable Product (MVP) for the hackathon, focusing on feasibility and potential benefits. It outlines services like Cloud Storage, Cloud Functions, Vertex AI, BigQuery, and Cloud Run/Agent Engine, and provides a summary of recommended integrations for the MVP.
 
 ## Strategic Focus
 
