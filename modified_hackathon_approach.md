@@ -31,18 +31,18 @@ In the context of extensible interfaces, **contracts** define the rules and expe
 
 By establishing clear contracts, extensible interfaces ensure that new components, developed independently and potentially at a later time, can correctly interact with the existing system. As long as a new component adheres to the defined contract of an interface, it can be integrated without requiring changes to the components that already use that interface. This promotes modularity and allows the system to evolve over time in a predictable and manageable way.
 
-**Illustrative Examples of Contracts in the Agent Development Kit (ADK) Samples:**
+**Contracts and Extensibility in the Agent Development Kit (ADK):**
 
-To see how contracts are implemented in the Agent Development Kit, explore the code within the official samples repository: [https://github.com/google/adk-samples](https://github.com/google/adk-samples)
+The Agent Development Kit (ADK) leverages several software engineering patterns and Python features to ensure extensibility through well-defined contracts. You can find detailed information on these concepts in the official ADK documentation on GitHub, particularly in sections discussing the architecture, core components, and how to build custom agents and tools.
 
-Focus on examining the following within the Python files (`.py`):
+Key concepts employed by the ADK that embody contracts and promote extensibility include:
 
-* **Abstract Base Classes (using `abc.ABC` and `@abc.abstractmethod`):** Look for classes decorated with `@abc.abstractmethod`. These define interfaces that concrete implementations must follow. The method signatures here are key parts of the contract.
-* **Class Interfaces (without explicit `abc`):** Sometimes, interfaces are defined implicitly through a class that outlines the methods that other classes are expected to implement. Pay attention to the method signatures and docstrings that describe the expected behavior.
-* **Function Signatures with Type Hints:** Observe how functions that serve as tools or agent logic are defined. The type hints for parameters and return values, along with the function's docstring, often define a contract for how these functions should be used.
-* **Pydantic Models:** Look for how Pydantic models are used to define the structure and types of data being passed between different parts of the ADK. These models act as contracts for data exchange.
+* **Abstract Base Classes (ABCs):** The ADK utilizes Python's `abc` module to define abstract interfaces for core components like `Agent`, `Tool`, and `Model`. These ABCs specify the methods that concrete implementations must provide, thus defining a contract for interaction. Refer to the ADK documentation on defining custom agents and tools for examples.
+* **Type Hinting:** The extensive use of type hints throughout the ADK codebase serves as a form of contract, clearly indicating the expected data types for function and method parameters and return values. This improves code clarity and helps ensure that interacting components are using data in the expected format. Consult the ADK documentation and API references for type usage.
+* **Pydantic Models:** Pydantic is used within the ADK for data validation and serialization. These models define the expected structure and types of data exchanged between different parts of the framework, acting as data contracts. See the documentation on data structures and component configurations for details on Pydantic model usage.
+* **Well-Defined Function Signatures:** The signatures of functions used for defining tools and agent logic in the ADK are themselves contracts, specifying how these components should be called and what they will return. The documentation on creating custom tools and agent methods will illustrate these signatures.
 
-By navigating the different sample directories and inspecting the Python code for these patterns, you can find practical examples of how contracts are defined and used within the ADK to promote extensibility.
+By adhering to these patterns and the contracts defined within the ADK's architecture, developers can extend the framework with new agents, tools, and integrations in a modular and maintainable way. Consult the official ADK documentation on GitHub ([https://github.com/google/adk-python](https://github.com/google/adk-python) and potentially linked documentation for specific components) for comprehensive details and examples.
 
 **Strategic Steps (Personal Workflow):**
 
