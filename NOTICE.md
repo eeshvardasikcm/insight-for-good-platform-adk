@@ -10,7 +10,8 @@ This version of the repository is submitted as is for the purpose of the current
 
 **Future Development Plans:**
 
-Please be aware that ongoing development and updates to this software are planned. These future iterations may take one of two forms:
+Please be aware that ongoing development and updates to this software are planned. These future iterations may be integrated into applications (either as standalone apps or as components of other apps) that will be made available to end users. In such cases, the codebase within this repository will remain as a snapshot in time for the Hackathon submission, and the code integrated into these applications will be considered the proprietary intellectual property of Eeshvar Das (Erik Douglas Ward).
+
 
 1.  **Proprietary Releases:** Subsequent, updated versions of this software may be developed and hosted privately for end-user access. In such cases, the code within this repository will remain as a snapshot in time for the Hackathon submission, and future proprietary updates will be considered the intellectual property of Eeshvar Das (Erik Douglas Ward).
 2.  **Potential Open Source Release (Future):** If this project is considered for open-source release in the future, it is likely that a new, separate repository will be created to host the actively developed codebase. This current repository would then remain in its post-submission state to comply with Hackathon guidelines.
