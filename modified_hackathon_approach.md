@@ -21,6 +21,16 @@ In software development, **extensibility** refers to the ability of a system or 
 
 Designing for extensibility from the outset can save significant time and effort in the long run when new features need to be implemented or existing functionalities need to be updated.
 
+**General Description of Contracts in Extensible Interfaces:**
+
+In the context of extensible interfaces, **contracts** define the rules and expectations for how different software components interact with each other. These contracts are typically expressed through:
+
+* **Method Signatures:** Specifying the names, parameters (including their types), and return types of functions or methods that an interface exposes. Any component interacting with this interface must adhere to these signatures.
+* **Data Structures:** Defining the format and types of data that are exchanged between components through the interface.
+* **Protocols:** Outlining the sequence of interactions or the expected behavior when using the interface. This might include specifying which methods should be called in what order or what states the interacting components should be in.
+
+By establishing clear contracts, extensible interfaces ensure that new components, developed independently and potentially at a later time, can correctly interact with the existing system. As long as a new component adheres to the defined contract of an interface, it can be integrated without requiring changes to the components that already use that interface. This promotes modularity and allows the system to evolve over time in a predictable and manageable way.
+
 **Strategic Steps (Personal Workflow):**
 
 1.  **Identify Projected Post-Hackathon Features:** Clearly define and understand the new features that are anticipated to be added after the Hackathon concludes. Gather any available specifications or high-level descriptions of these features.
