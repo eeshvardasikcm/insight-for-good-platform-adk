@@ -33,16 +33,7 @@ By establishing clear contracts, extensible interfaces ensure that new component
 
 **Contracts and Extensibility in the Agent Development Kit (ADK):**
 
-The Agent Development Kit (ADK) leverages several software engineering patterns and Python features to ensure extensibility through well-defined contracts. You can find detailed information on these concepts in the official ADK documentation on GitHub, particularly in sections discussing the architecture, core components, and how to build custom agents and tools.
-
-Key concepts employed by the ADK that embody contracts and promote extensibility include:
-
-* **Abstract Base Classes (ABCs):** The ADK utilizes Python's `abc` module to define abstract interfaces for core components like `Agent`, `Tool`, and `Model`. These ABCs specify the methods that concrete implementations must provide, thus defining a contract for interaction. Refer to the ADK documentation on defining custom agents and tools for examples.
-* **Type Hinting:** The extensive use of type hints throughout the ADK codebase serves as a form of contract, clearly indicating the expected data types for function and method parameters and return values. This improves code clarity and helps ensure that interacting components are using data in the expected format. Consult the ADK documentation and API references for type usage.
-* **Pydantic Models:** Pydantic is used within the ADK for data validation and serialization. These models define the expected structure and types of data exchanged between different parts of the framework, acting as data contracts. See the documentation on data structures and component configurations for details on Pydantic model usage.
-* **Well-Defined Function Signatures:** The signatures of functions used for defining tools and agent logic in the ADK are themselves contracts, specifying how these components should be called and what they will return. The documentation on creating custom tools and agent methods will illustrate these signatures.
-
-By adhering to these patterns and the contracts defined within the ADK's architecture, developers can extend the framework with new agents, tools, and integrations in a modular and maintainable way. Consult the official ADK documentation on GitHub ([https://github.com/google/adk-python](https://github.com/google/adk-python) and potentially linked documentation for specific components) for comprehensive details and examples.
+The Agent Development Kit (ADK) employs concepts that facilitate extensibility through well-defined contracts. For detailed information on how the ADK achieves this, please refer to the official ADK documentation available on GitHub ([https://github.com/google/adk-python](https://github.com/google/adk-python)). The documentation outlines the architectural principles and design choices that support the creation of extensible agents, tools, and integrations. Look for sections on core concepts, component design, and extending the framework to understand how contracts are implicitly and explicitly defined.
 
 **Strategic Steps (Personal Workflow):**
 
