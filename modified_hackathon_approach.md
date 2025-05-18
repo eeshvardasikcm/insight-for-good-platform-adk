@@ -31,6 +31,18 @@ In the context of extensible interfaces, **contracts** define the rules and expe
 
 By establishing clear contracts, extensible interfaces ensure that new components, developed independently and potentially at a later time, can correctly interact with the existing system. As long as a new component adheres to the defined contract of an interface, it can be integrated without requiring changes to the components that already use that interface. This promotes modularity and allows the system to evolve over time in a predictable and manageable way.
 
+**Illustrative Examples of Contracts in the Agent Development Kit (ADK) Samples:**
+
+To see how contracts are implemented in the Agent Development Kit, it's best to explore the official samples repository: [https://github.com/google/adk-samples](https://github.com/google/adk-samples)
+
+Look for the following patterns within the sample code:
+
+* **Abstract Base Classes (using `abc` module):** These often define the interfaces that different components must implement. For example, you might find an abstract `Tool` class with abstract methods that concrete tools need to provide. The signatures of these abstract methods represent a key part of the contract.
+* **Function Signatures with Type Hints:** Pay attention to the function definitions, especially in the context of defining tools or agent logic. The parameters and return types specified in the function signature, along with the docstrings explaining the expected behavior, form a contract.
+* **Pydantic Models:** The ADK likely uses Pydantic for defining the structure of data exchanged between components. These Pydantic models act as contracts for the format and types of data. Examine how data is defined and validated using these models.
+
+By examining these elements within the ADK samples, you can gain a practical understanding of how contracts are defined and enforced to ensure extensibility within the framework.
+
 **Strategic Steps (Personal Workflow):**
 
 1.  **Identify Projected Post-Hackathon Features:** Clearly define and understand the new features that are anticipated to be added after the Hackathon concludes. Gather any available specifications or high-level descriptions of these features.
