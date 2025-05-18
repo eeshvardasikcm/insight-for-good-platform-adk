@@ -33,15 +33,16 @@ By establishing clear contracts, extensible interfaces ensure that new component
 
 **Illustrative Examples of Contracts in the Agent Development Kit (ADK) Samples:**
 
-To see how contracts are implemented in the Agent Development Kit, it's best to explore the official samples repository: [https://github.com/google/adk-samples](https://github.com/google/adk-samples)
+To see how contracts are implemented in the Agent Development Kit, explore the code within the official samples repository: [https://github.com/google/adk-samples](https://github.com/google/adk-samples)
 
-Look for the following patterns within the sample code:
+Focus on examining the following within the Python files (`.py`):
 
-* **Abstract Base Classes (using `abc` module):** These often define the interfaces that different components must implement. For example, you might find an abstract `Tool` class with abstract methods that concrete tools need to provide. The signatures of these abstract methods represent a key part of the contract.
-* **Function Signatures with Type Hints:** Pay attention to the function definitions, especially in the context of defining tools or agent logic. The parameters and return types specified in the function signature, along with the docstrings explaining the expected behavior, form a contract.
-* **Pydantic Models:** The ADK likely uses Pydantic for defining the structure of data exchanged between components. These Pydantic models act as contracts for the format and types of data. Examine how data is defined and validated using these models.
+* **Abstract Base Classes (using `abc.ABC` and `@abc.abstractmethod`):** Look for classes decorated with `@abc.abstractmethod`. These define interfaces that concrete implementations must follow. The method signatures here are key parts of the contract.
+* **Class Interfaces (without explicit `abc`):** Sometimes, interfaces are defined implicitly through a class that outlines the methods that other classes are expected to implement. Pay attention to the method signatures and docstrings that describe the expected behavior.
+* **Function Signatures with Type Hints:** Observe how functions that serve as tools or agent logic are defined. The type hints for parameters and return values, along with the function's docstring, often define a contract for how these functions should be used.
+* **Pydantic Models:** Look for how Pydantic models are used to define the structure and types of data being passed between different parts of the ADK. These models act as contracts for data exchange.
 
-By examining these elements within the ADK samples, you can gain a practical understanding of how contracts are defined and enforced to ensure extensibility within the framework.
+By navigating the different sample directories and inspecting the Python code for these patterns, you can find practical examples of how contracts are defined and used within the ADK to promote extensibility.
 
 **Strategic Steps (Personal Workflow):**
 
