@@ -6,9 +6,9 @@ The "Insights for Good Platform" project has two key documentation and planning 
 
 Firstly, this **Initial UI Plan** (detailed below) outlines a strategy to develop a dual-purpose user interface. This UI will initially serve as a manual tool for developers to document MVP progress with text and image uploads during a hackathon, while also laying the groundwork for the final end-user interface. The plan details core features like manual entry and sequential display, along with a phased development approach.
 
-Secondly, and distinctly for the project's **Azure Development Kit (ADK) repository**, a GitHub Pull Request (#2) has been made to introduce a foundational `README.md` file. This new documentation provides an overview of the ADK, lists its features (such as Infrastructure as Code and deployment scripts), offers "Getting Started" instructions with prerequisites and setup steps, outlines the repository's directory structure, and includes placeholders for future contribution and licensing information.
+Secondly, and distinctly for the project's **Agent Development Kit (ADK) repository**, a GitHub Pull Request (#2) has been made to introduce a foundational `README.md` file. This new documentation provides an overview of the ADK, lists its features (such as Infrastructure as Code and deployment scripts, which may be related to agent infrastructure), offers "Getting Started" instructions with prerequisites and setup steps, outlines the repository's directory structure, and includes placeholders for future contribution and licensing information.
 
-In essence, while strategic planning (as detailed herein) is in place for the platform's user-facing UI, foundational documentation for its supporting Azure Development Kit is also being established.
+In essence, while strategic planning (as detailed herein) is in place for the platform's user-facing UI, foundational documentation for its supporting **Agent Development Kit** is also being established.
 
 ---
 
