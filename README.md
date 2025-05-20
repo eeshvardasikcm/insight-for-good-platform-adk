@@ -46,7 +46,7 @@ The Insight for Good Platform is ultimately designed to offer a comprehensive su
         * **Emphasis on Core Values:** Contextualization with an emphasis on humanitarianism, sustainability, and ethical development.
     * *Future Development (Beyond Hackathon):* To significantly enhance the nuance, adaptability, and depth of the Benevolent AI Response Strategy.
 * **User Interaction (Hackathon Submission):**
-    * The user interface **being implemented** for the hackathon version **will provide** access to the core functionalities achieved, demonstrating the primary interaction model. The detailed planning for this initial UI, including its development stages for the hackathon, is available in our [Initial UI Plan](./docs/UI_PLAN.md).
+    * The user interface **being implemented** for the hackathon version **will provide** access to the core functionalities achieved, demonstrating the primary interaction model. The detailed planning for this initial UI, including its development stages for the hackathon, is available in our [Initial UI Plan](/planning/docs/UI_PLAN.md).
     * *Future Development (Beyond Hackathon):* To create a more comprehensive and user-friendly UI/UX.
 
 ## 3. Technology Stack: Hackathon Submission & Future Roadmap
