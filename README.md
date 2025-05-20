@@ -58,7 +58,7 @@ This section details the technologies **planned for active use in the version** 
     * **Programming Language:** Python
     * **Data Handling/Analysis:** The initial phase of our technical roadmap has led to the selection and integration of core libraries for data handling and analysis (e.g., Pandas, NumPy), **which are being integrated for utilization in the submission**.
     * **AI/ML Model (Benevolent Response Strategy):** The **version intended for submission will incorporate** initial heuristics and foundational logic for the Benevolent AI Response Strategy. Evaluation of more advanced Language Model APIs (e.g., Google's Gemini) is part of our *future development plan beyond the hackathon*.
-    * **UI:** The **hackathon submission is planned to feature** a foundational interface (e.g., a command-line interface or a simple web prototype using tools like Streamlit/Flask) demonstrating core functionality. (Refer to the [Initial UI Plan](./docs/UI_PLAN.md) for more details).
+    * **UI:** The **hackathon submission is planned to feature** a foundational interface (e.g., a command-line interface or a simple web prototype using tools like Streamlit/Flask) demonstrating core functionality. (Refer to the [Initial UI Plan](/planning/docs/UI_PLAN.md) for more details).
 * **Google Cloud Services (Planned for Hackathon Submission):**
     * The **version to be submitted** for the hackathon **is planned to utilize** [User to specify Google Cloud services that will be actively used and demonstrable in the submitted code, e.g., "Google Cloud Functions for specific agent tasks and Google Cloud Storage for dataset management during query processing."].
 * **Future Technical Roadmap (Beyond Hackathon Submission):**
