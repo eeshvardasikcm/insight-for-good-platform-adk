@@ -1,8 +1,3 @@
-********************************************************************************
-**THIS IS THE 'PLANNING' BRANCH OF THE INSIGHTS FOR GOOD PLATFORM.**
-**THE INFORMATION CONTAINED HEREIN DESCRIBES THE PROJECT'S INTENDED DEVELOPMENT AND MAY NOT REFLECT THE CURRENT STATE OF THE MAIN BRANCH OR THE HACKATHON SUBMISSION.**
-********************************************************************************
-
 # Insight for Good Platform - Project Development Outline
 **(Work in Progress for the Agent Development Kit Hackathon with Google Cloud)**
 
