@@ -26,7 +26,7 @@ Built using the open-source Agent Development Kit (ADK), the platform **that wil
 ### Key Planning Documents and Strategies
 * **Overall Project Strategy:** The strategic direction and planned features for this project are further detailed in the planning branch of this repository: [Insight for Good Platform Planning Branch](https://github.com/eeshvardasikcm/insight-for-good-platform-adk/blob/planning/planning/STRATEGY.md). This branch provides context for the development efforts undertaken for this hackathon submission.
 * **Initial UI Plan:** The detailed plan for the user interface (covering goals, features, and MVP development stages) can be found in [Initial UI Plan](/planning/docs/UI_PLAN.md).
-* **Infrastructure as Code (IaC) and Data Governance:** Our strategy for managing infrastructure and data governance is detailed in [Infrastructure as Code (IaC) and Data Governance Strategy](./docs/IAC_AND_DATA_GOVERNANCE.md).
+* **Infrastructure as Code (IaC) and Data Governance:** Our strategy for managing infrastructure and data governance is detailed in [Infrastructure as Code (IaC) and Data Governance Strategy](https://github.com/eeshvardasikcm/insight-for-good-platform-adk/planning/docs/iac-data-governance-strategy.md).
 
 ## 2. Features and Functionality: Hackathon Submission & Future Vision
 
