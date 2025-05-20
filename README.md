@@ -6,7 +6,7 @@ The "Insights for Good Platform" project has several key documentation and plann
 
 Firstly, this **Initial UI Plan** (detailed below) outlines a strategy to develop a dual-purpose user interface for development documentation and as a foundation for end-user interaction.
 
-Secondly, foundational documentation for the project's **Agent Development Kit (ADK) repository** (the toolkit used in building this platform) typically covers the ADK's overview, features, and setup.
+Secondly, the **Agent Development Kit (ADK)** serves as the core toolkit for building the 'Insights for Good Platform.' Comprehensive documentation detailing the ADK's general overview, features, and setup can be found at its **main official repository or project documentation site**.
 
 A dedicated strategy for **Infrastructure as Code (IaC) and Data Governance** is also a critical aspect of the platform's development. Detailed information on this can be found in our document on [Infrastructure as Code (IaC) and Data Governance Strategy](./docs/IAC_AND_DATA_GOVERNANCE.md). This strategy focuses on how infrastructure will be managed and data will be governed to ensure integrity, security, and compliance, especially for the platform's AI systems.
 
