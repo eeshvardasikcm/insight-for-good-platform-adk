@@ -1,3 +1,8 @@
+********************************************************************************
+**THIS IS THE 'HACKATHON-DEVELOPMENT' BRANCH OF THE INSIGHTS FOR GOOD PLATFORM.**
+**THIS BRANCH CONTAINS THE ACTIVE DEVELOPMENT EFFORTS FOR THE AGENT DEVELOPMENT KIT HACKATHON WITH GOOGLE CLOUD. THE CODE AND DOCUMENTATION HERE REFLECT THE CURRENT STATE OF THE PROJECT INTENDED FOR THE JUNE 23, 2025 SUBMISSION.**
+********************************************************************************
+
 # Insight for Good Platform - Project Development Outline
 **(Work in Progress for the Agent Development Kit Hackathon with Google Cloud)**
 
