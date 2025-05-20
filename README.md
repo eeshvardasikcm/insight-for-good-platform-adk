@@ -1,5 +1,19 @@
 # Insights for Good Platform - Initial UI Plan (Dual Purpose: Hackathon Development Documentation & Foundational End-User Interface)
 
+## Project Philosophy, Motivation, and Context
+
+A Note from the Developer (Eeshvar Das):
+
+The primary purpose of creating the "Insights for Good Platform" is to develop a robust, reliable, and beneficial AI system. It is important to state that this project is **not intended to compete with the Google Cloud Agent space.**
+
+My personal journey as a physically disabled individual, and my experience in seeking to engage with existing agent ecosystems, has highlighted the need for accessible and dependable agentic solutions. This has been a significant motivator in designing the "Insights for Good Platform" with a strong emphasis on resilience and long-term viability.
+
+The version of the platform being developed for the Agent Development Kit Hackathon (with a completion timeline of less than 40 days from mid-May 2025) will naturally represent an initial iteration. This timeframe necessitates extensive foundational documentation and a carefully considered, likely reduced, set of core features for this initial submission.
+
+I have consistently maintained a cooperative relationship with Google, both as a customer and a community contributor. The "Insights for Good Platform" is being developed with the full intention of cooperating with all applicable Google rules and terms.
+
+Looking towards the future, the aspiration is for the "Insights for Good Platform" to potentially become a valuable part of the broader Google Cloud Agent space ecosystem. Furthermore, the goal is for the platform to evolve in an agnostic manner, aligning with the flexible and open philosophy often associated with tools like the Agent Development Kit (ADK).
+
 ## Project Overview and Related Documentation Efforts
 
 The "Insights for Good Platform" project has several key documentation and planning initiatives underway.
@@ -8,7 +22,7 @@ Firstly, this **Initial UI Plan** (detailed below) outlines a strategy to develo
 
 Secondly, the **Agent Development Kit (ADK)** serves as the core toolkit for building the 'Insights for Good Platform.' Comprehensive documentation detailing the ADK's general overview, features, and setup can be found at its **main official repository or project documentation site**.
 
-A dedicated strategy for **Infrastructure as Code (IaC) and Data Governance** is also a critical aspect of the platform's development. Detailed information on this can be found in our document on [Infrastructure as Code (IaC) and Data Governance Strategy](https://github.com/eeshvardasikcm/insight-for-good-platform-adk/blob/planning/planning/docs/iac-data-governance-strategy.md). This strategy focuses on how infrastructure will be managed and data will be governed to ensure integrity, security, and compliance, especially for the platform's AI systems.
+A dedicated strategy for **Infrastructure as Code (IaC) and Data Governance** is also a critical aspect of the platform's development. Detailed information on this can be found in our document on [Infrastructure as Code (IaC) and Data Governance Strategy](./docs/IAC_AND_DATA_GOVERNANCE.md). This strategy focuses on how infrastructure will be managed and data will be governed to ensure integrity, security, and compliance, especially for the platform's AI systems.
 
 These interconnected initiatives—the UI plan, ADK utilization, and the IaC/Data Governance strategy—are central to the development of the "Insights for Good Platform."
 
