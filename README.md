@@ -28,9 +28,9 @@ Built using the open-source Agent Development Kit (ADK), the platform **that wil
 
 ### Key Planning Documents and Strategies
 
-  * **Overall Project Strategy:** The strategic direction and planned features for this project are further detailed in the planning branch of this repository: [Insight for Good Platform Planning Branch](https://github.com/eeshvardasikcm/insight-for-good-platform-adk/blob/planning/planning/STRATEGY.md). This branch provides context for the development efforts undertaken for this hackathon submission.
-  * **Initial UI Plan:** The detailed plan for the user interface (covering goals, features, and MVP development stages) can be found in [Initial UI Plan](https://www.google.com/search?q=/planning/docs/UI_PLAN.md).
-  * **Infrastructure as Code (IaC) and Data Governance:** Our strategy for managing infrastructure and data governance is detailed in [Infrastructure as Code (IaC) and Data Governance Strategy](https://www.google.com/search?q=/planning/docs/iac-data-governance-strategy.md).
+  * **Overall Project Strategy:** The strategic direction and planned features for this project are further detailed in the planning branch of this repository: [Insight for Good Platform Planning Branch]. This branch provides context for the development efforts undertaken for this hackathon submission.
+  * **Initial UI Plan:** The detailed plan for the user interface (covering goals, features, and MVP development stages) can be found in [Initial UI Plan].
+  * **Infrastructure as Code (IaC) and Data Governance:** Our strategy for managing infrastructure and data governance is detailed in [Infrastructure as Code (IaC) and Data Governance Strategy].
 
 -----
 
@@ -42,7 +42,7 @@ The Insight for Good Platform is ultimately designed to offer a comprehensive su
       * The system **to be submitted will establish** the architecture to ingest and analyze datasets related to positive societal trends, environmental conservation efforts, and humanitarian aid outcomes.
       * *Future Development (Beyond Hackathon):* To expand data source compatibility and analytical depth.
   * **Multi-Agent Powered Insights (Planned for Hackathon Submission):**
-      * User queries **are planned to be processed** by a collaborative multi-agent system in the submission version, demonstrating how different agents will handle specific tasks such as data retrieval, initial processing, and insight generation. The collaboration between these agents will be a key aspect showcased in the submission. For a detailed breakdown of the agent roles, see [agent\_roles\_benevolent\_analysis.md](https://www.google.com/search?q=./agent_roles_benevolent_analysis.md).
+      * User queries **are planned to be processed** by a collaborative multi-agent system in the submission version, demonstrating how different agents will handle specific tasks such as data retrieval, initial processing, and insight generation. The collaboration between these agents will be a key aspect showcased in the submission. For a detailed breakdown of the agent roles, see [agent\_roles\_benevolent\_analysis.md].
       * *Future Development (Beyond Hackathon):* To increase the sophistication and number of specialized agents.
   * **Benevolent AI Response Strategy (Core Implementation for Hackathon Submission):**
       * A core implementation of the Benevolent AI Response Strategy **is planned for integration** into the platform for submission. When insights are generated, the response agent **will apply the foundational logic** of this strategy.
@@ -52,7 +52,7 @@ The Insight for Good Platform is ultimately designed to offer a comprehensive su
           * **Emphasis on Core Values:** Contextualization with an emphasis on humanitarianism, sustainability, and ethical development.
       * *Future Development (Beyond Hackathon):* To significantly enhance the nuance, adaptability, and depth of the Benevolent AI Response Strategy.
   * **User Interaction (Hackathon Submission):**
-      * The user interface **being implemented** for the hackathon version **will provide** access to the core functionalities achieved, demonstrating the primary interaction model. The detailed planning for this initial UI, including its development stages for the hackathon, is available in our [Initial UI Plan](https://www.google.com/search?q=/planning/docs/UI_PLAN.md).
+      * The user interface **being implemented** for the hackathon version **will provide** access to the core functionalities achieved, demonstrating the primary interaction model. The detailed planning for this initial UI, including its development stages for the hackathon, is available in our [Initial UI Plan].
       * *Future Development (Beyond Hackathon):* To create a more comprehensive and user-friendly UI/UX.
 
 -----
@@ -66,7 +66,7 @@ This section details the technologies **planned for active use in the version** 
       * **Programming Language:** Python
       * **Data Handling/Analysis:** The initial phase of our technical roadmap has led to the selection and integration of core libraries for data handling and analysis (e.g., Pandas, NumPy), **which are being integrated for utilization in the submission**.
       * **AI/ML Model (Benevolent Response Strategy):** The **version intended for submission will incorporate** initial heuristics and foundational logic for the Benevolent AI Response Strategy. Evaluation of more advanced Language Model APIs is part of our *future development plan beyond the hackathon*.
-      * **UI:** The **hackathon submission is planned to feature** a foundational interface (e.g., a command-line interface or a simple web prototype using tools like Streamlit/Flask) demonstrating core functionality. (Refer to the [Initial UI Plan](https://www.google.com/search?q=/planning/docs/UI_PLAN.md) for more details).
+      * **UI:** The **hackathon submission is planned to feature** a foundational interface (e.g., a command-line interface or a simple web prototype using tools like Streamlit/Flask) demonstrating core functionality. (Refer to the [Initial UI Plan] for more details).
   * **Cloud Services (Planned for Hackathon Submission):**
       * The **version to be submitted** for the hackathon **is planned to utilize** cloud services that will be actively used and demonstrable in the submitted code, such as for specific agent tasks and storage for dataset management during query processing.
   * **Future Technical Roadmap (Beyond Hackathon Submission):**
@@ -99,4 +99,4 @@ The Insight for Good Platform, **once fully developed as per our long-term visio
 The source code for the **version** of the Insight for Good Platform **to be submitted** for the Agent Development Kit Hackathon (reflecting its state as of June 23, 2025, 5:00 PM PT) **will be made available** in the public GitHub repository **specifically for judging purposes for this contest**.
 **Repository Link:** [Link to be provided with the final hackathon submission]
 
-The selection of a specific open-source license (e.g., MIT, Apache 2.0) for potential *broader distribution and future development post-hackathon* is a key consideration in our development roadmap and will be finalized as the codebase matures. For the purposes of this hackathon, the code **will be accessible** to judges via the provided repository link **upon submission**. For details regarding the copyright of this project, please see [NOTICE.md](https://www.google.com/search?q=./NOTICE.md).
+The selection of a specific open-source license (e.g., MIT, Apache 2.0) for potential *broader distribution and future development post-hackathon* is a key consideration in our development roadmap and will be finalized as the codebase matures. For the purposes of this hackathon, the code **will be accessible** to judges via the provided repository link **upon submission**. For details regarding the copyright of this project, please see [NOTICE.md](NOTICE.md).
