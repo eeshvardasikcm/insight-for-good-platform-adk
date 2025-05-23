@@ -2,16 +2,13 @@
 
 ### Goal: Achieving MVP and a Runnable Submission by the Deadline with Extensible Text Input
 
-The primary goal is to develop a **minimal manual-entry UI** centered around a text input for the "Insights for Good Platform." This UI will allow judges (and future users) to interact with the core logic of the MVP through text, providing input and receiving output, and will be designed for extensibility. This streamlined UI will be the foundation for the platform's initial MVP and its submission, directly showcasing how key features are demonstrated (primarily through text interactions and their logged outputs) and how the system can be extended. The UI will support a clear process for documenting these interactions for the submission.
+The primary goal is to develop a **minimal manual-entry UI** centered around a text input for the "Insights for Good Platform." This UI will allow judges (and future users) to interact with the core logic of the MVP through text, providing input and receiving output, and will be designed for extensibility. This streamlined UI will be the foundation for the platform's initial MVP and its submission, directly showcasing how key features are demonstrated (primarily through text interactions and their logged outputs) and how the system can be extended. Documentation for the submission will be prepared separately, based on these interactions.
 
 ---
 
 ### Core UI Features (Demonstrating Minimal MVP with Extensibility)
 
-* **Primary Text Input/Output Area:** A central text box or console-like area where users can type commands, queries, or data, and receive text-based responses or system output. This is the primary interaction point.
-* **Simple Manual Data and Image Entry (for Submission Documentation):** Alongside the interactive text area, a mechanism to associate an image (a screenshot serving as visual evidence of an MVP feature). If time permits, this would be a clear mechanism for **uploading or selecting an image**; otherwise, a simpler method (e.g., noting a filename) will be used. This is specifically for documenting the features demonstrated *via* the text interaction.
-* **Contextual Input for MVP Features:** Intuitive UI elements for immediately recording the context and rationale associated with a *specific text interaction* and its linked image. This manual text input will highlight its contribution to the MVP, explaining "the why" behind that demonstrated feature.
-* **Sequential Display of MVP Feature Demonstrations:** Text interaction logs and their associated images (screenshots of MVP features) will be manually indexed and linked to the sequence in which they are added. This order will directly represent the demonstration flow of your MVP features for the submission.
+* **Primary Text Input/Output Area:** A central text box or console-like area where users can type commands, queries, or data, and receive text-based responses or system output. This area should maintain a clear, scrollable log of interactions. This is the primary interaction point.
 * **Emphasis on Extensibility through Text Commands:** The design will implicitly convey how new functionalities can be added by expanding the range of recognized text commands or the complexity of text-based interactions.
 
 ---
@@ -27,55 +24,22 @@ Focus on the central text interaction. This will be the primary way judges inter
     * A "Submit" or "Enter" button (or allow pressing Enter key) to send the input.
     * Consider a clear placeholder text (e.g., "Enter command...", "Type your query here...")
 * **Output/Response Display Area:**
-    * A larger, read-only text area (e.g., a scrollable div or text box) to display the application's responses, results, or current state based on the text input. This mimics a console or chat interface.
+    * A larger, read-only text area (e.g., a scrollable div or text box) to display the application's responses, results, or current state based on the text input. This area will serve as the primary log of interactions.
 * **Initial Commands/Interactions for MVP:** Define 1-2 core text commands/inputs that demonstrate the absolute minimum functionality of your MVP. For example:
     * `list_data`: Displays some predefined data.
     * `add_item [item_name]`: Adds a simple item to an internal list.
     * `query [keyword]`: Simulates a basic search.
 * **Extensibility Hook:** The very nature of a text command interface implies extensibility. Document this as a core design principle: new commands can be added to the underlying logic without requiring major UI changes.
 
-#### Phase 2: Design of Manual Documentation Area (for Judge Submission)
-
-This is separate from the live interaction but crucial for the *submission*. It allows you to document the specific text interactions and their visual proof.
-
-* **"Document Interaction" Button/Section:** A clear UI element that, when clicked, captures the *current state of the text input/output area* and prompts the user to add a description and associate an image.
-* **Documentation Entry Fields:**
-    * **Demonstration Title:** A concise name for the interaction being documented (e.g., "Feature Demo: Listing Data").
-    * **Text Interaction Log:** A read-only copy of the relevant input(s) and output(s) from the main text area.
-    * **Feature Description/Rationale:** A multi-line text area to explain what this interaction demonstrates, its significance, and how it fulfills an MVP requirement.
-    * **"Associate Screenshot" Mechanism:** A way to link a screenshot to the documentation. Ideally, this would be an "Upload Screenshot" button if development time allows. Minimally, it could be a text field to input a filename or URL for the screenshot that visually confirms the text output.
-    * **Image Preview Area:** A small thumbnail or preview of the associated screenshot. (This functionality is planned for post-MVP development, but could be considered if time unexpectedly permits).
-* **Detailed Demonstration View:**
-    * When a demonstration is selected, display:
-        * **Demonstration Title**
-        * **Captured Text Interaction Log**
-        * **Associated Screenshot (if provided, prominently displayed according to the MVP's image association capability)**
-        * **Feature Description/Rationale**
-
-#### Phase 3: Design of Sequential Review and Export (for Judge Evaluation)
-
-Focus on presenting the documented demonstrations clearly and providing an export method.
-
-* **Sequential Demonstration List:**
-    * A sidebar or main area listing each documented interaction (e.g., "Demo 1: Data Listing," "Demo 2: Item Addition"). Each item, when clicked, displays its details.
-* **Detailed Demonstration View:**
-    * When a demonstration is selected, display:
-        * **Demonstration Title**
-        * **Captured Text Interaction Log**
-        * **Associated Screenshot (prominently displayed, method of display depends on MVP implementation of association)**
-        * **Feature Description/Rationale**
-* **Export Functionality:**
-    * **Recommended Export Format: HTML Report or PDF Report.** This self-contained format will present all documented demonstrations (text logs, descriptions, associated screenshots/references) in a clear, sequential report that judges can easily review without running your application. This implicitly *demonstrates* the extensibility by showcasing multiple unique interactions.
-
 ---
 
 ### Next Steps for MVP Submission (Focusing on Runnable Evaluation)
 
 * **Define Minimum Viable Text Interactions:** Clearly specify the 1-2 core commands/inputs that will be fully functional and demonstrate the MVP's essence.
-* **Design the Image Association Mechanism:** Decide on the user interaction for associating images. For MVP, this might be a simple filename input. If time permits, a more integrated upload mechanism (e.g., drag-and-drop, file picker) can be designed and developed. Consider temporary storage implications if direct uploads are pursued.
-* **Create Mockups or Wireframes:** Visually lay out the interactive text box, the documentation entry UI (reflecting the chosen image association method for MVP), and the sequential display interface.
-* **Consider Judge-Specific Requirements:** If judges need to *run* your application, determine how this documented UI will integrate. Ensure your export plan directly supports how the judges prefer to receive documentation.
+* **Create Mockups or Wireframes:** Visually lay out the interactive text input field and the output/response display area.
+* **Submission Documentation Plan:** Outline how the text interactions from the application's output log will be captured (e.g., copy-paste, screenshots of the UI/console) and documented externally in a separate report. This report will include descriptions, rationale for features, and any illustrative screenshots.
+* **Consider Judge-Specific Requirements:** Determine how judges will run the application and review the externally prepared documentation.
 
 ---
 
-*Any features that are beyond the minimal text input and extensibility can be developed after the Hackathon (if they don't get done during the Hackathon).*
+*Any features that are beyond this minimal text input UI and its extensibility can be developed after the Hackathon (if they don't get done during the Hackathon).*
