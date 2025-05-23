@@ -69,3 +69,7 @@ Focus on presenting the documented demonstrations clearly and providing an expor
 * **Design the Image Upload/Selection Mechanism:** Decide on the user interaction for image upload (e.g., drag-and-drop, traditional file picker) and temporary storage considerations for the images.
 * **Create Mockups or Wireframes:** Visually lay out the interactive text box, the documentation entry UI, and the sequential display interface.
 * **Consider Judge-Specific Requirements:** If judges need to *run* your application, determine how this documented UI will integrate. Ensure your export plan directly supports how the judges prefer to receive documentation.
+
+---
+
+*Any features that are beyond the minimal text input and extensibility can be developed after the Hackathon (if they don't get done during the Hackathon).*
