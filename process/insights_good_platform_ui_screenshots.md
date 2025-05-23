@@ -2,7 +2,7 @@
 
 ### Goal: Achieving MVP and a Runnable Submission by the Deadline with Extensible Text Input
 
-The primary goal is to develop a **minimal manual-entry UI** centered around a text input for the "Insights for Good Platform." This UI will allow judges (and future users) to interact with the core logic of the MVP through text, providing input and receiving output. To support comprehensive documentation of the MVP features demonstrated via text, the UI will also offer a straightforward method for associating relevant **images (screenshots)**. The in-app complexity of this image association mechanism will be strictly minimized to align with MVP timelines, focusing on effectively supporting a sequential review of these documented interactions. This streamlined UI will be the foundation for the platform's initial MVP and its submission, directly showcasing how key features are demonstrated and how the system can be extended.
+The primary goal is to develop a **minimal manual-entry UI** centered around a text input for the "Insights for Good Platform." This UI will allow judges (and future users) to interact with the core logic of the MVP through text, providing input and receiving output, and will be designed for extensibility. This streamlined UI will be the foundation for the platform's initial MVP and its submission, directly showcasing how key features are demonstrated (primarily through text interactions and their logged outputs) and how the system can be extended. The UI will support a clear process for documenting these interactions for the submission.
 
 ---
 
