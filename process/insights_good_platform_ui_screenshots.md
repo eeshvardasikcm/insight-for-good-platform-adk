@@ -1,33 +1,45 @@
-### Insights for Good Platform - Initial UI Plan (Manual Data Entry and Sequential Display with Image Upload for MVP Submission)
+# Insights for Good Platform - Initial UI Plan: Minimal MVP with Extensible Text Interaction
 
-**I. Goal: Achieving MVP and a Runnable Submission by the Deadline**
+### Goal: Achieving MVP and a Runnable Submission by the Deadline with Extensible Text Input
 
-* Develop a manual-entry UI for the "Insights for Good Platform" that allows users to input information, associate images (screenshots demonstrating MVP features), and review everything sequentially. This UI will be the foundation for the platform's initial MVP and its submission, directly showcasing the features implemented to meet the Hackathon requirements for evaluation.
+The primary goal is to develop a **minimal manual-entry UI** centered around a text input for the "Insights for Good Platform." This UI will allow judges (and future users) to interact with the core logic of the MVP through text, providing input and receiving output, and will be designed for extensibility. This streamlined UI will be the foundation for the platform's initial MVP and its submission, directly showcasing how key features are demonstrated (primarily through text interactions and their logged outputs) and how the system can be extended. Documentation for the submission will be prepared separately, based on these interactions.
 
-**II. Core UI Features (Demonstrating MVP Components):**
+---
 
-* Simple, manual UI for associating data with a specific point or entry. This will include various manual input methods (e.g., text fields, dropdowns) **and a mechanism for uploading or selecting an image (screenshot serving as visual evidence of an MVP feature).**
-* Intuitive UI elements for immediately recording the context and rationale associated with the *current* data entry and the linked image (representing an MVP feature) through manual text input, highlighting its contribution to the MVP.
-* Clear, manual indexing of data entries and their associated images (screenshots of MVP features), linked to the sequence in which they are added (representing the order of MVP feature implementation for the submission).
-* Emphasis on a natural, manual workflow for documenting the "why" behind the data and visuals (representing MVP features) at the point of creation, ensuring clarity for the judges' evaluation.
+### Core UI Features (Demonstrating Minimal MVP with Extensibility)
 
-**III. UI Planning Stages (Initial Focus for MVP Submission):**
+* **Primary Text Input/Output Area:** A central text box or console-like area where users can type commands, queries, or data, and receive text-based responses or system output. This area should maintain a clear, scrollable log of interactions. This is the primary interaction point.
+* **Emphasis on Extensibility through Text Commands:** The design will implicitly convey how new functionalities can be added by expanding the range of recognized text commands or the complexity of text-based interactions.
 
-* **Phase 1: Design of Manual Data and Image Entry UI (Documenting MVP Features):**
-    * Focus on the UI elements that allow users to manually input data (text, etc.) **and efficiently upload or select an image (screenshot as visual documentation of an MVP feature)** for the "Insights for Good Platform". Consider the best way to integrate image selection/upload into the manual entry flow, where each image directly represents a key component of the MVP.
-    * Document the UI design choices for both data and image input, prioritizing a natural and intuitive manual entry experience for documenting the MVP features for the submission.
+---
 
-* **Phase 2: Design of Sequential Display of MVP Feature Implementation:**
-    * Focus on how the entered data, its context/rationale (explaining the MVP feature), **and the associated images (screenshots showcasing the MVP feature)** will be presented to the user in a clear sequence within the "Insights for Good Platform". The sequence will represent the order in which these MVP features were implemented for the submission. Consider how to visually integrate the screenshots with the text-based information and make everything easily reviewable for the judges.
-    * Document the UI design choices for the sequential display of both data and images, ensuring clarity and ease of review for showcasing the MVP features in the submission.
+### UI Planning Stages (Initial Focus for MVP Submission)
 
-* **Phase 3: Planning Basic Data and Image Export (For Judge Evaluation):**
-    * If relevant for the initial functionality of the MVP submission, plan a simple method for exporting the entered data, its associated context/rationale (MVP feature descriptions), **and references to the uploaded images (screenshots providing visual evidence of the MVP features)**. Consider how image references (e.g., file paths) will be handled in the export to represent the documented MVP features for the judges' evaluation process.
-    * Document the proposed export format for both data and image references for the MVP submission, designed to clearly communicate the achieved MVP.
+#### Phase 1: Design of Interactive Text Box and Output Area (Core MVP Interaction)
 
-**IV. Next Steps for MVP Submission (Focusing on Runnable Evaluation):**
+Focus on the central text interaction. This will be the primary way judges interact with your MVP's logic.
 
-* Elaborate on the specific data types and input methods for the "Insights for Good Platform" MVP submission (related to describing and showcasing MVP features).
-* Design the image upload/selection mechanism within the UI to efficiently capture screenshots of the MVP features.
-* Create mockups or wireframes for the manual data and image entry UI and the sequential display of these MVP features for the MVP submission.
-* Consider any specific requirements for the judges to run and evaluate the MVP based on this documented information.
+* **Interactive Text Input Field:**
+    * A prominent, single-line text input field (or multi-line, if direct multi-line commands are expected for the MVP).
+    * A "Submit" or "Enter" button (or allow pressing Enter key) to send the input.
+    * Consider a clear placeholder text (e.g., "Enter command...", "Type your query here...")
+* **Output/Response Display Area:**
+    * A larger, read-only text area (e.g., a scrollable div or text box) to display the application's responses, results, or current state based on the text input. This area will serve as the primary log of interactions.
+* **Initial Commands/Interactions for MVP:** Define 1-2 core text commands/inputs that demonstrate the absolute minimum functionality of your MVP. For example:
+    * `list_data`: Displays some predefined data.
+    * `add_item [item_name]`: Adds a simple item to an internal list.
+    * `query [keyword]`: Simulates a basic search.
+* **Extensibility Hook:** The very nature of a text command interface implies extensibility. Document this as a core design principle: new commands can be added to the underlying logic without requiring major UI changes.
+
+---
+
+### Next Steps for MVP Submission (Focusing on Runnable Evaluation)
+
+* **Define Minimum Viable Text Interactions:** Clearly specify the 1-2 core commands/inputs that will be fully functional and demonstrate the MVP's essence.
+* **Create Mockups or Wireframes:** Visually lay out the interactive text input field and the output/response display area.
+* **Submission Documentation Plan:** Outline how the text interactions from the application's output log will be captured (e.g., copy-paste, screenshots of the UI/console) and documented externally in a separate report. This report will include descriptions, rationale for features, and any illustrative screenshots.
+* **Consider Judge-Specific Requirements:** Determine how judges will run the application and review the externally prepared documentation.
+
+---
+
+*Any features that are beyond this minimal text input UI and its extensibility can be developed after the Hackathon (if they don't get done during the Hackathon).*
