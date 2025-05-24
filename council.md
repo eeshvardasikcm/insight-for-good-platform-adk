@@ -15,7 +15,7 @@ The Council operates under an established set of procedures and financial arrang
 **Open Invitation:** The Council welcomes requests from individuals or entities who wish to become members and participate in influencing its decision-making processes, including this licensing decision.
 
 **Process to Request Membership:**
-1.  **Expression of Interest:** Interested parties should submit a formal expression of interest to [Specify Contact Person/Email/Portal].
+1.  **Expression of Interest:** Interested parties should submit a pull request to this [community-edition_question] branch, or by creating an issue on this repository specifically expressing your interest in participating with the council (even if only by contributing your suggestions).
 2.  **Information Required:** The expression of interest should include [Specify details, e.g., name, affiliation (if any), reason for interest, acknowledgement of council fees/costs].
 3.  **Review & Approval:** Requests will be reviewed by [Specify body, e.g., existing council members, a membership committee] based on [Specify criteria, if any, e.g., genuine interest, commitment to constructive participation].
 4.  **Onboarding:** Approved new members will be onboarded according to the Council's standard procedures.
