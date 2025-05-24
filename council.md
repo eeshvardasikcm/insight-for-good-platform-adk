@@ -66,7 +66,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 ## 5. Next Steps
 
 * Individuals or entities interested in joining the Council to participate in this decision-making process should follow the procedure outlined in Section 2.2.
-* The Council will [Specify immediate next action, e.g., schedule the first information gathering session, open the call for input].
+* The Council has opened the call for input.
 
 ---
 **Insights for Good Community Edition Governance & Licensing Council**</br>
