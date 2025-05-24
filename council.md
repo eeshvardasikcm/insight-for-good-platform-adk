@@ -38,7 +38,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
     * Comparison with the current "All Rights Reserved" status.
     * Potential benefits and drawbacks.
 2.  **Expert Consultation (if necessary):** The Council may seek advice from legal experts specializing in open-source licensing.
-3.  **Call for Input:** All council members and interested stakeholders (even non-members, via a public comment period if deemed appropriate) will have an opportunity to submit information, perspectives, questions, and concerns regarding the proposed change.
+3.  **Call for Input:** All council members and interested stakeholders (even non-members, via a public comment period if deemed appropriate) will have an opportunity to submit information, perspectives, questions, and concerns regarding the proposed change. Everyone is welcome to make a pull request or create an issue in this repository concerning this proposal.
 
 ### 3.3. Deliberation & Discussion Phase
 1.  **Dedicated Sessions:** The Council will hold one or more dedicated sessions to discuss the proposed license change.
