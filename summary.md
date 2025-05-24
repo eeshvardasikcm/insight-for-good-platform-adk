@@ -3,7 +3,6 @@
 ********************************************************************************
 
 
-
 ********************************************************************************
 **'HACKATHON-DEVELOPMENT' COMPONENT OF THE INSIGHTS FOR GOOD PLATFORM.**
 **CONTAINS THE ACTIVE DEVELOPMENT EFFORTS FOR THE AGENT DEVELOPMENT KIT HACKATHON WITH GOOGLE CLOUD. THE CODE AND DOCUMENTATION HERE REFLECT THE CURRENT STATE OF THE PROJECT INTENDED FOR THE JUNE 23, 2025 SUBMISSION.**
@@ -51,8 +50,6 @@ The development for the "Insight for Good Platform" during the Agent Development
     * The **source code will be made available** in a public GitHub repository for judging.
 
 The hackathon development is therefore geared towards producing a tangible, demonstrable multi-agent application that fulfills the core project promise of delivering benevolently framed insights, built with an eye towards future robustness and extensibility.
-
-
 
 
 ********************************************************************************
