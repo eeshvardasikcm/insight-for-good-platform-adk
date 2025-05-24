@@ -9,7 +9,7 @@ The purpose of this process is to ensure a transparent, inclusive, and informed 
 ## 2. The Licensing Council
 
 ### 2.1. Existing Structure
-The Council operates under an established set of procedures and financial arrangements. Members acknowledge that participation involves certain fees/costs, as per the Council's existing terms of operation, which contribute to the administration and facilitation of its activities.
+The Council operates under an established set of procedures and financial arrangements (private for now). Members acknowledge that participation involves certain fees/costs, as per the Council's existing terms of operation, which contribute to the administration and facilitation of its activities.
 
 ### 2.2. Membership & Participation
 **Open Invitation:** The Council welcomes requests from individuals or entities who wish to become members and participate in influencing its decision-making processes, including this licensing decision.
