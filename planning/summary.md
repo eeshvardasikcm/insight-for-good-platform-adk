@@ -1,4 +1,10 @@
-{'PLANNING' COMPONENT OF THE INSIGHTS FOR GOOD PLATFORM. THE INFORMATION CONTAINED HEREIN DESCRIBES THE PROJECT'S INTENDED DEVELOPMENT AND MAY NOT REFLECT THE CURRENT STATE OF THE MAIN BRANCH OR THE HACKATHON SUBMISSION.}
+********************************************************************************
+** PLANNING' COMPONENT OF THE INSIGHTS FOR GOOD PLATFORM. **
+** THE INFORMATION CONTAINED HEREIN **</br>
+** DESCRIBES THE PROJECT'S INTENDED DEVELOPMENT AND **</br>
+** MAY NOT REFLECT THE CURRENT STATE OF THE DEFAULT BRANCH **</br>
+** OR THE HACKATHON SUBMISSION **
+********************************************************************************
 
 This summary consolidates the planning and strategic direction for the "Insight for Good Platform," also referred to as the "Benevolent Data Analysis System," as of May 2025. The platform's development is particularly focused on its application in the Agent Development Kit Hackathon with Google Cloud, with a core guiding principle of "Benevolence."
 
