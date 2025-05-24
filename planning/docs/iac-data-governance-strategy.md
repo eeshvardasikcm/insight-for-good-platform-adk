@@ -11,7 +11,7 @@ This document outlines the "Insights for Good Platform" project's approach to In
 * **Objective:** To establish comprehensive oversight for ensuring data integrity, security (including access control), quality, best practices in data management, reporting standards, information consistency, and compliance with internal and external regulations (including privacy laws).
 * **Scope:** Encompasses all project data, particularly data used by AI systems (which are "creatures of data"), and covers cross-functional use, reporting, and analytics. Effective data governance is crucial for decision-making, cost reduction, and AI effectiveness.
 * **Core Components:**
-    * Clearly defined accountability roles (e.g., Data Owners, Stewards, Custodians) and oversight bodies (e.g., Data Governance Council).
+    * Clearly defined accountability roles (e.g., Data Owners, Stewards, Custodians) and oversight bodies (e.g., Good Community Edition Governance & Licensing Council).
     * Adherence to key principles: data as a strategic, cross-functional asset; consistent data integrity across its lifecycle; and management according to security/privacy rules and regulations.
     * Oversight of critical data management activities: Metadata Management, Data Quality Management, Data Architecture, Data Modeling & Design, Data Storage and Operations, Data Security, Data Integration and Interoperability, Document and Content Management, Reference and Master Data, Data Warehousing, and Business Intelligence.
     * Utilization of relevant Google Cloud services for data governance, security, and AI (e.g., Sensitive Data Protection, Cloud IAM, Security Command Center).
