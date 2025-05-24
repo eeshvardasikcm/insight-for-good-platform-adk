@@ -77,4 +77,3 @@ As stated in section 2.1, participation in the Council's processes, including th
 **Document Version: 0.1**
 **Date Initiated: May 23, 2025**
 **Proposed and Initiated by: Eeshvar Das**
-```
