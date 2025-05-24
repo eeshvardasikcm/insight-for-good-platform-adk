@@ -17,8 +17,7 @@ The Council operates under an established set of procedures and financial arrang
 **Process to Request Membership:**
 1.  **Expression of Interest:** Interested parties should submit a pull request to this [community-edition_question] branch, or by creating an issue on this repository specifically expressing your interest in participating with the council (even if only by contributing your suggestions).
 2.  **Information Required:** The expression of interest preferrably could include [Specify details, e.g., name, affiliation (if any), reason for interest, acknowledgement that helping to pay council fees/costs is not a requirement for anyone].
-3.  **Review & Approval:** Requests will be reviewed by [Specify body, e.g., existing council members, a membership committee] based on [Specify criteria, if any, e.g., genuine interest, commitment to constructive participation].
-4.  **Onboarding:** Approved new members will be onboarded according to the Council's standard procedures.
+3.  **Onboarding:** Dialogue on this repository (and this repositorys future move after this Hackathon repository finalizes) is welcome. Becoming a council member that will be reviewing new community-edition_question (and future community edition council) pull requests) is probable for those that show sincere desire to make essential decisions that represent the impact of future changes to the Insights for Good Community Edition.
 
 ### 2.3. Council Operations
 The Council will conduct its deliberations regarding this licensing decision in accordance with its established operational guidelines, including but not limited to:
