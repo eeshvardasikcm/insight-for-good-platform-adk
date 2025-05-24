@@ -41,7 +41,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 3.  **Call for Input:** All council members and interested stakeholders (even non-members, via a public comment period if deemed appropriate) will have an opportunity to submit information, perspectives, questions, and concerns regarding the proposed change. Everyone is welcome to make a pull request or create an issue in this repository concerning this proposal.
 
 ### 3.3. Deliberation & Discussion Phase
-1.  **Dedicated Sessions:** The Council will hold one or more dedicated sessions to discuss the proposed license change.
+1.  **Dedicated Sessions:** The Council will hold one or more dedicated sessions to discuss the proposed license change (may be private and expedient, where in favor of finalizing the Insights for Good Community Edition new repositry process of starting out as open source).
 2.  **Open Dialogue:** A core principle of these discussions is that "everyone is welcome to ask, and no legitimate question is a bad question." All viewpoints will be respectfully heard and considered.
 3.  **Addressing Concerns:** Specific concerns raised during the information gathering phase will be addressed.
 4.  **Scenario Analysis:** The Council may discuss various scenarios and potential outcomes of adopting Apache 2.0.
