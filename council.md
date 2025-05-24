@@ -1,6 +1,3 @@
-Okay, Eeshvar Das. Here is the complete document in Markdown format, with the initiation details you provided placed at the end.
-
-```markdown
 # Framework for Licensing Decision: Transition from "All Rights Reserved" to Apache License 2.0
 
 ## 1. Introduction & Purpose
