@@ -21,7 +21,7 @@ The Council operates under an established set of procedures and financial arrang
 
 ### 2.3. Council Operations
 The Council will conduct its deliberations regarding this licensing decision in accordance with its established operational guidelines, including but not limited to:
-* **Meetings:** Scheduled as needed, conducted [Specify format, e.g., in-person, virtual, hybrid].
+* **Meetings:** Scheduled as needed, conducted [format, e.g., in-person, live remote, hybrid come and go within broad time constraints].
 * **Quorum & Voting:** Decisions will be made based on [Specify mechanism, e.g., simple majority, supermajority, consensus] of attending members, provided a quorum of [Specify number/percentage] is met.
 * **Record Keeping:** Minutes and decisions will be documented by [Specify role, e.g., Council Secretary].
 
