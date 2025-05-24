@@ -73,7 +73,7 @@ As stated in section 2.1, participation in the Council's processes, including th
 * The Council will [Specify immediate next action, e.g., schedule the first information gathering session, open the call for input].
 
 ---
-**Insights for Good Community Edition Governance & Licensing Council**
-**Document Version: 0.1**
-**Date Initiated: May 23, 2025**
-**Proposed and Initiated by: Eeshvar Das**
+**Insights for Good Community Edition Governance & Licensing Council**</br>
+**Document Version: 0.1**</br>
+**Date Initiated: May 23, 2025**</br>
+**Proposed and Initiated by: Eeshvar Das**</br>
