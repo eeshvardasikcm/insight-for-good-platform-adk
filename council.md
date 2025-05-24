@@ -63,10 +63,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 * **Respectful Inquiry:** All questions and discussions will be conducted in a respectful and constructive manner.
 * **Accountability:** The Council is accountable for making a well-reasoned decision.
 
-## 5. Fees and Costs
-As stated in section 2.1, participation in the Council's processes, including this licensing decision, is subject to the Council's established fee and cost structure. These contributions support the necessary administrative and operational functions required for the Council to conduct its work effectively.
-
-## 6. Next Steps
+## 5. Next Steps
 
 * Individuals or entities interested in joining the Council to participate in this decision-making process should follow the procedure outlined in Section 2.2.
 * The Council will [Specify immediate next action, e.g., schedule the first information gathering session, open the call for input].
