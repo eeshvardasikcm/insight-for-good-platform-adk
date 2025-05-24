@@ -58,7 +58,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 ## 4. Guiding Principles for this Process
 
 * **Transparency:** The process will be conducted openly, with clear communication about steps and decisions.
-* **Inclusivity:** All legitimate voices and perspectives will be sought and considered.
+* **Inclusivity:** All legitimate voices and perspectives will be sought and considered, especially with reference to the research done by Eeshvar Das in 2025 concering Ethical AI.
 * **Due Diligence:** The decision will be based on thorough information gathering and careful consideration of all relevant factors.
 * **Respectful Inquiry:** All questions and discussions will be conducted in a respectful and constructive manner.
 * **Accountability:** The Council is accountable for making a well-reasoned decision.
