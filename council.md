@@ -23,7 +23,7 @@ The Council operates under an established set of procedures and financial arrang
 The Council will conduct its deliberations regarding this licensing decision in accordance with its established operational guidelines, including but not limited to:
 * **Meetings:** Scheduled as needed, conducted [format, e.g., in-person, live remote, hybrid flexible within broad time constraints].
 * **Quorum & Voting:** Decisions will be made based on results from attending members, provided sensible representation of community edition needs is met.
-* **Record Keeping:** Decisions will be documented.
+* **Record Keeping:** Decisions will be documented (with future additions towards transparent representation).
 
 ## 3. Licensing Decision Process for Apache 2.0 Adoption
 
