@@ -49,7 +49,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 ### 3.4. Decision-Making
 1.  **Motion for Decision:** A formal doocument will be put forward to decide on the adoption of Apache License 2.0.
 2.  **Voting/Consensus:** The decision will be made according to the Council's established voting or consensus-building procedures (as outlined in 2.3).
-3.  **Timeline:** The Council aims to reach a decision by [Specify Target Date or Timeframe, if applicable].
+3.  **Timeline:** The Council aims to reach a decision whenever there is good opportunity to proceed.
 
 ### 3.5. Communication of Decision
 1.  **Documentation:** The final decision, along with a summary of the rationale, will be formally documented.
