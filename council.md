@@ -28,7 +28,7 @@ The Council will conduct its deliberations regarding this licensing decision in 
 ## 3. Licensing Decision Process for Apache 2.0 Adoption
 
 ### 3.1. Formal Proposal
-The specific proposal to change the license for [Specify Project/Product/Work Name] from "All Rights Reserved" to "Apache License 2.0" is formally brought before the Council.
+The specific proposal to change the license for [Insights for Good Community Edition] from "All Rights Reserved" to "Apache License 2.0" is formally brought before the Council.
 
 ### 3.2. Information Gathering & Review Phase
 1.  **Research & Analysis:** The Council will undertake or commission research into the implications of adopting the Apache License 2.0. This includes:
