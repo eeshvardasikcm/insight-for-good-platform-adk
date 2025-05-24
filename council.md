@@ -53,7 +53,7 @@ The specific proposal to change the license for [Insights for Good Community Edi
 
 ### 3.5. Communication of Decision
 1.  **Documentation:** The final decision, along with a summary of the rationale, will be formally documented.
-2.  **Announcement:** The decision will be communicated to all council members and relevant stakeholders through [Specify channels, e.g., official website, mailing list, direct communication].
+2.  **Announcement:** The decision will be communicated directly to all council members and relevant stakeholders, and publicly posted.
 
 ## 4. Guiding Principles for this Process
 
