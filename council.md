@@ -2,7 +2,7 @@
 
 ## 1. Introduction & Purpose
 
-This document outlines the framework and process for the [Council Name - e.g., Insights for Good Licensing Council] (hereafter "the Council") to evaluate and decide upon a potential change in the licensing terms for [Specify Project/Product/Work Name] from its current "All Rights Reserved" copyright status to the Apache License 2.0.
+This document outlines the framework and process for the [Insights for Good Platform Governance & Licensing Council] (hereafter "the Council") to evaluate and decide upon a potential change in the licensing terms for [Insights for Good Platform] from its current "All Rights Reserved" copyright status to the Apache License 2.0.
 
 The purpose of this process is to ensure a transparent, inclusive, and informed decision that considers all relevant factors and stakeholder perspectives. This process acknowledges and integrates the existing operational structure of the Council, including any associated fees or costs for participation.
 
