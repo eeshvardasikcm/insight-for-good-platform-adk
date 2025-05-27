@@ -12,7 +12,7 @@ I'll be focusing on two key areas concurrently:
 
 ## Analogous Simulation & Data Versioning
 
-Our development process will leverage an **analogous simulation** that models the construction and operation of a community garden. This simulation isn't just a separate tool; it's intricately linked to the Insights for Good Platform's development, acting as a dynamic source for our demo data.
+The development process of Eeshvar Das will leverage an **analogous simulation** that models the construction and operation of a community garden. This simulation isn't just a separate tool; it's intricately linked to the Insights for Good Platform's development, acting as a dynamic source for our demo data.
 
 This approach offers several key benefits:
 
