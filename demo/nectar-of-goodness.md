@@ -10,7 +10,7 @@ Imagine the "Insights for Good Platform" is assisting a group of community membe
 
 ---
 
-### Your Demo's "Hummingbird Food" (Data)
+### Demo's "Hummingbird Food" (Data)
 
 For the `mvp-0_1` hackathon demo, the data will be a **controlled, curated dataset** representing key aspects of this hypothetical community garden project, such as:
 
