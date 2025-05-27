@@ -1,4 +1,4 @@
-### Visualizing the Community Garden
+### Visualizing the Community Garden (Optional UI Concept)
 
 ---
 
