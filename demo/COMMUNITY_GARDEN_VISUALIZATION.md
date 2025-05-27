@@ -12,7 +12,7 @@ Imagine a central "seed" or "hub" representing the core project idea. As differe
 
 **2. The "Plot-by-Plot" Garden:**
 
-This concept breaks the garden into individual plots, each representing a distinct part of your project.
+This concept breaks the garden into individual plots, each representing a distinct part of the project.
 
 * **Visual Cues:**
     * **Individual Plots:** Each plot could start as barren soil. As the corresponding project component is developed, the plot fills with greenery, then flowers, and finally, ripe "fruits" or "vegetables" upon completion.
