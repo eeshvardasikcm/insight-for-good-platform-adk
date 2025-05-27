@@ -1,7 +1,7 @@
 ## Community Garden Demo: Nectar in the Urban Oasis
 
 ### Honing in on the **Community Garden Project** as the ideal scenario
-This use case possibly embodies the "Insights for Good" philosophy by taking a tangible, localized initiative and extracting its inherent positivity. For the Hackathon, Eeshvar Das require a probable candidate demo.
+This use case possibly embodies the "Insights for Good" philosophy by taking a tangible, localized initiative and extracting its inherent positivity. For the Hackathon, Eeshvar Das requires a probable candidate demo.
 
 ### The Scenario: From Barren Plot to Blooming Goodness
 
