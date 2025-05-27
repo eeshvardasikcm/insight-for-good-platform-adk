@@ -22,9 +22,9 @@ This approach offers several key benefits:
 
 ---
 
-## Expanding Data Features: Community Member Insights
+## Expanding Demo Capabilities: Community Member Roles
 
-Crucially, the data features will be expanded to include **featured community members** who are inherently part of crucial decision-making processes and experiences within the simulated community garden. This will allow the platform to demonstrate its capability in capturing and leveraging insights from key stakeholders.
+Crucially, the demo's capabilities will be expanded to include how the platform interacts with **key community members** who are integral to crucial decisions and experiences within the simulated community garden. This will allow the demo to show the platform's ability to integrate insights from essential stakeholders.
 
 ---
 
