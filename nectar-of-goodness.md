@@ -1,5 +1,5 @@
 ## **hummingbird feeder as the demo for the "Insights for Good Platform"** that attempts to approach a perfect capture of the essence of
-## Hummingbird Feeder Demo: Nectar of Goodness
+# Hummingbird Feeder Demo: Nectar of Goodness
 
 Imagine the "Insights for Good Platform" as a **digital hummingbird feeder**. Just as a physical feeder provides life-sustaining nectar to hummingbirds, our platform offers concentrated "nectar"—positive, constructive insights derived from data—to users. This demo will showcase how the platform, even in its `mvp-0_1` state, can extract and present these beneficial insights, embodying the **Benevolent AI Response Strategy** and its commitment to highlighting good.
 
