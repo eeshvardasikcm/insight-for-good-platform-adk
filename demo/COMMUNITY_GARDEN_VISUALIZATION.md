@@ -24,7 +24,7 @@ This concept breaks the garden into individual plots, each representing a distin
 For a more minimalist or artistic approach, you could use abstract shapes and patterns that evoke botanical growth without being literal plants.
 
 * **Visual Cues:**
-    * **Flowing Lines:** Lines could branch out from a central point, with each branch representing a project module. As the module progresses, the line could thicken, change color, or sprout smaller, intricate patterns.
+    * **Flowing Lines:** Lines could branch out from a central point. The line could thicken, change color, or sprout smaller, intricate patterns.
     * **Geometric Blooms:** Abstract geometric shapes could "bloom" or "unfold" as project parts are completed, with more complex or colorful patterns appearing upon success.
 
 ### Why This Concept Works for a Hackathon
