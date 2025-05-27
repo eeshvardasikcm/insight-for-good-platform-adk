@@ -9,7 +9,6 @@ Imagine a central "seed" or "hub" representing the core project idea. As differe
 * **Visual Cues:**
     * **Color Changes:** As a part of the project is completed, its corresponding segment in the garden could change color from a muted tone to a vibrant, "blooming" color.
     * **Plant Growth:** Instead of just color, individual "plants" or "flowers" could sprout and grow within each segment as tasks are finished. A fully completed section could show a lush, vibrant patch of garden.
-    * **Interactive Tooltips:** Hovering over a plant or segment could reveal a tooltip detailing what that section represents (e.g., "User Authentication Module - Completed," "Data Visualization Engine - 80% Complete").
 
 **2. The "Plot-by-Plot" Garden:**
 
