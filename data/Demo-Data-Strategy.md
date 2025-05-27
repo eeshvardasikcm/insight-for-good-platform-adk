@@ -12,7 +12,7 @@ I'll be focusing on two key areas concurrently:
 
 ## Analogous Simulation & Data Versioning
 
-The development process being done by Eeshvar Das will leverage an **analogous simulation** that models the construction and operation of a community garden. This simulation isn't just a separate tool; it's intricately linked to the Insights for Good Platform's development, acting as a dynamic source for our demo data.
+Our development process will leverage an **analogous simulation** that models the construction and operation of a community garden. This simulation isn't just a separate tool; it's intricately linked to the Insights for Good Platform's development, acting as a dynamic source for our demo data.
 
 This approach offers several key benefits:
 
@@ -20,4 +20,14 @@ This approach offers several key benefits:
 
 * **Versioned Data:** The simulated data will be **versioned** throughout the development process. This allows us to track changes and, crucially, to persist some of the original "first version" data into the final demo dataset. By doing so, the demo can realistically illustrate how the platform addresses initial challenges and evolves with the garden project.
 
-By integrating this analogous simulation, we're not just building a platform; we're creating a robust, scenario-driven demo that truly reflects the complexities and successes of using the Insights for Good Platform in action.
+---
+
+## Hackathon Submission & Reflective Narrative
+
+The **final result** of this development process will be presented to the Hackathon judges. This means the entire development journey, including iterative progress and challenges, **will not be posted publicly on GitHub during the hackathon**.
+
+Instead, the final demo dataset will still **reflect simulated difficulties** encountered during the community garden's construction and operation, much like a work of fiction. This allows the demo itself to tell a compelling story of problem-solving.
+
+To provide context for the judges, I will maintain **private notes** that correlate the demo's development challenges with the simulated difficulties. These notes will be filtered and used separately to explain the critical decisions and hurdles faced during the Insights for Good Platform's development, leading to the final solution.
+
+It's important to note that the conceptual design of this project, including the challenges in designing the Insights for Good Platform's core idea, has already been articulated and is visible through several pull requests on GitHub.
