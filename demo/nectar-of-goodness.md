@@ -7,7 +7,7 @@ This use case possibly embodies the "Insights for Good" philosophy by taking a t
 
 Imagine the "Insights for Good Platform" is assisting a group of community members, or perhaps a single landowner, who is transforming an underutilized parcel of land (e.g., a specific number of acres) into a thriving **community garden**.
 
-**My Demo's "Hummingbird Food" (Data):**
+**Demo Candidate's "Hummingbird Food" (Data):**
 
 For the `mvp-0_1` hackathon demo, the data will be a **controlled, curated dataset** representing various aspects of this hypothetical community garden project. This dataset can include:
 
