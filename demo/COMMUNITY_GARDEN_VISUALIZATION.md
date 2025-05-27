@@ -17,7 +17,7 @@ This concept breaks the garden into individual plots, each representing a distin
 * **Visual Cues:**
     * **Individual Plots:** Each plot could start as barren soil. As the corresponding project component is developed, the plot fills with greenery, then flowers, and finally, ripe "fruits" or "vegetables" upon completion.
     * **Pathways:** Pathways between plots could progress from dirt trails to stone paths, signifying the evolving integration of project components.
-    * **"Natural Cycles:** Just like any real garden, elements such as compost piles or pollinator-friendly plants could be incorporated to represent the natural, regenerative processes and complementary components within your ADK's development.
+    * **"Natural Cycles:** Just like any real garden, elements such as compost piles or pollinator-friendly plants could be incorporated to represent the natural, regenerative processes and complementary parts of the commmunity garden ecosystem.
 
 **3. The "Abstract Botanical" Garden:**
 
