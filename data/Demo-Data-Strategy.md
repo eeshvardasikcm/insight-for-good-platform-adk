@@ -34,4 +34,4 @@ Instead, the final demo dataset will **incorporate simulated difficulties** enco
 
 To provide context for the judges, I will maintain **private notes** that document the demo's development challenges. These notes will be filtered and used separately to explain the critical decisions and hurdles faced during the Insights for Good Platform's development, leading to the final solution.
 
-It's important to note that the conceptual design of this project, including the challenges in designing the Insights for Good Platform's core idea, has already been articulated and is visible through several pull requests on GitHub.
+It's important to note that the conceptual design of this project, including the challenges in designing the Insights for Good Platform's core idea, has already been articulated and is visible through several pull requests in this Insights for Good Platform repository on GitHub.
